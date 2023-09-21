@@ -9,4 +9,3 @@ for i in range(t):
     number = "0" + str(number)
 
     print(f'{floor}{number[-2:]}')
-    
